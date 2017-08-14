@@ -1,0 +1,44 @@
+Brick Breaker
+
+CONTROLS:
+
+KEYBOARD:
+A: increase cannon angle
+D: decrease cannon angle
+S: move cannon up
+F: move cannon down
+Ctrl+left: move red basket left
+Ctrl+right: move red basket right
+Alt+left: move green basket left
+Alt+left: move green basket left
+Space: shoot bullets
+Up: zoom in
+Down: zoom out
+left: pan left
+right: pan right
+C: pan up
+X: pan down
+N: increase block fall speed
+M: decrease block fall speed
+Enter: Restart a game when the game is over
+P: pause a game and also to unpause it.
+
+
+MOUSE:
+Scrollup: zoom in
+Scrolldown: zoom out
+rightclick: If the pointer is dragged pan the screen accordingly.
+leftclick: If the pointer is on an object, it is highlighted and we can move the object by dragging or if you click on pause button game pauses and unpause when you click play button or if you directly press the play button game restarts, Otherwise cannon shoots a bullet according to that angle.
+
+
+INSTRUCTIONS:
+
+1.Use the cannon to shoot black bricks.
+2.Shooting a black brick gives 4 points.
+3.Shooting a red brick or green brick gives -1 points.
+4.Catching a brick with same coloured bin gives 3 points.
+5.You can't use a bin to catch a different coloured brick.
+6.You have 10 lives. Each time a coloured brick is shooted, you lose a life. Losing all 10 lives ends the game or if a black brick falls in a bin then the game ends.
+7.Each time your points cross a multiple of fifty, a level will be increased along with the speed of the blocks.
+
+
